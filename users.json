@@ -1,0 +1,1 @@
+{"users":[{"name":"Herman","age":19,"password":"$argon2id$v=19$m=65536,t=3,p=4$AbTJzZ1VH+DchuwEX4yddg$HAuUwm4A07JzJZkVDhooju4kg7+Tf8cNG2JPL1H4Eao","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiSGVybWFuIiwiYWdlIjoxOSwiaWF0IjoxNzAyMjI5ODA2LCJleHAiOjE3MDIyNTE0MDZ9.G5qHqtvZzyKkTViC7d_ueYEt3m3KLAHN8A6Q0d6GRr4"}]}
