@@ -41,6 +41,7 @@ const io = new Server(httpServer)
 
 
 app.post('/api/auth/register', AuthController.store)
+app.post('/api/auth/login', AuthController.login)
 
 app.get('/', checkToken, function(req, res) {
     res.send("Hello user!");
